@@ -4,5 +4,7 @@ public class HelloWorld {
     }
     public static void B(){
         System.out.println("B函数");
+    public static void A(){
+        System.out.println("A函数");
     }
 }
