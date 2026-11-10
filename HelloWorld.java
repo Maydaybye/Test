@@ -3,5 +3,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("饿了");
         System.out.println("坏了");
+        System.out.println("好了");
+        System.out.println("饿了");
     }
 }
